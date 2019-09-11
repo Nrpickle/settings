@@ -22,3 +22,6 @@ set expandtab
 
 " Configures vim to use the system clipboard
 set clipboard=unnamedplus
+
+" Highlights all search results
+set hlsearch
